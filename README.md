@@ -34,8 +34,8 @@ REPO: https://github.com/ayushigeorge/webdev_intern_BasicBankingSystem
 ## 15: TOURIST MANAGEMENT SYSTEM
 REPO: https://github.com/ayushigeorge/tourism-mananagement-system
 ## 16: JAVASCRIPT PROJECTS
-https://github.com/ayushigeorge/JavaScript
+REPO: https://github.com/ayushigeorge/JavaScript
 ## 17: JAVACRIPT EXERCISE
-https://github.com/ayushigeorge/javascript-exercise
+REPO: https://github.com/ayushigeorge/javascript-exercise
 ## 18: Arpana Website link:https://arpanaraj.netlify.app
-https://github.com/ayushigeorge/Arpana-Rajasthan
+REPO: https://github.com/ayushigeorge/Arpana-Rajasthan
