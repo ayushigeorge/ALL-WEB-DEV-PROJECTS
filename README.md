@@ -37,5 +37,5 @@ REPO: https://github.com/ayushigeorge/tourism-mananagement-system
 https://github.com/ayushigeorge/JavaScript
 ## 17: JAVACRIPT EXERCISE
 https://github.com/ayushigeorge/javascript-exercise
-##18: Arpana Website link:https://arpanaraj.netlify.app
+## 18: Arpana Website link:https://arpanaraj.netlify.app
 https://github.com/ayushigeorge/Arpana-Rajasthan
